@@ -1,0 +1,16 @@
+C:\Users\sik\Documents\Visual Studio 2010\Projects\ShapeApp1\bin\Debug\ShapeApp1.exe
+C:\Users\sik\Documents\Visual Studio 2010\Projects\ShapeApp1\bin\Debug\ShapeApp1.pdb
+C:\Users\sik\Documents\Visual Studio 2010\Projects\ShapeApp1\obj\x86\Debug\ShapeApp1.Properties.Resources.resources
+C:\Users\sik\Documents\Visual Studio 2010\Projects\ShapeApp1\obj\x86\Debug\ShapeApp1.csproj.GenerateResource.Cache
+C:\Users\sik\Documents\Visual Studio 2010\Projects\ShapeApp1\obj\x86\Debug\ShapeApp1.exe
+C:\Users\sik\Documents\Visual Studio 2010\Projects\ShapeApp1\obj\x86\Debug\ShapeApp1.pdb
+C:\Users\sik\Documents\Visual Studio 2010\Projects\ShapeApp1\obj\x86\Debug\ShapeApp1.ShapeApp.resources
+C:\Users\sik\Documents\Visual Studio 2010\Projects\ShapeApp1\obj\x86\Debug\ShapeApp1.csprojResolveAssemblyReference.cache
+C:\Users\sik\Documents\Visual Studio 2010\Projects\ShapeApp1\bin\Debug\ShapeLib.dll
+C:\Users\sik\Documents\Visual Studio 2010\Projects\ShapeApp1\bin\Debug\ShapeLib.pdb
+C:\Users\sik\Documents\Visual Studio 2010\Projects\ShapeApp1\obj\x86\Debug\ShapeApp1.Login.resources
+C:\Users\sik\Documents\Visual Studio 2010\Projects\ShapeApp1\bin\Debug\ShapeApp1.exe.config
+C:\Users\sik\Documents\Visual Studio 2010\Projects\ShapeApp1\obj\x86\Debug\ShapeApp1.LoginLost.resources
+C:\Users\sik\Documents\Visual Studio 2010\Projects\ShapeApp1\bin\Debug\LoginLib.dll
+C:\Users\sik\Documents\Visual Studio 2010\Projects\ShapeApp1\bin\Debug\LoginLib.pdb
+C:\Users\sik\Documents\Visual Studio 2010\Projects\ShapeApp1\obj\x86\Debug\ShapeApp1.CreateForm.resources
